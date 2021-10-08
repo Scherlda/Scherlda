@@ -1,6 +1,6 @@
 <p align="center">
-### Hi 👋 </br>
-#### My Name is Damian. </br>
+<h1> Hi 👋 </h1></br>
+<h2> My Name is Damian. </h2></br>
 Yes I am still learning but I am very motivated. </br>
 
 🖥️ I'm a network engineer</br>
