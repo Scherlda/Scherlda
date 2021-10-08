@@ -17,7 +17,7 @@
 <a> 🖥️ I'm a network engineer</a></br>
 <a> 🧑‍💻 I'm currently learning C#</a></br>
 <a> 🐱 And i love cat's </a>
-</br>
+</p>
 </div>
 
 <!--statistics-->
