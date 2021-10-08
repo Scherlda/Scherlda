@@ -7,8 +7,8 @@
 
 <!--About me-->
 <p align="center"> 🖥️ I'm a network engineer</p>
-<p align="center"> 🧑‍💻 I'm currently learning C#</p></br>
-<p align="center"> 🐱 And i love cat's 
+<p align="center"> 🧑‍💻 I'm currently learning C#</p>
+<p align="center"> 🐱 And i love cat's </p>
 
 <!--statistics-->
 <p align="center">
@@ -22,10 +22,3 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda" />
 </div>
 
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
