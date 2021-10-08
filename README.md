@@ -1,9 +1,11 @@
 ### Hi 👋
 
-####My Name is Damian.
+#### My Name is Damian.
 Yes I am still learning but I am very motivated.
 
 
-- 🖥️ I'm a network engineer
-- 🧑‍💻 I am currently learning C#
-- 
+🖥️ I'm a network engineer</br>
+🧑‍💻 I am currently learning C#</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
