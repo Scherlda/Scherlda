@@ -7,11 +7,10 @@
 
 
 <p align="center"> 🖥️ I'm a network engineer</p>
-<p align="center"> 🧑‍💻 I am currently learning C#</p></br>
+<p align="center"> 🧑‍💻 I''m currently learning C#</p></br>
+<p ali
 
 ![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scherlda&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scherlda&repo=sw_developer_2021_damian)](https://github.com/Scherlda/sw_developer_2021_damian)
-<button type="button" href="https://github.com/scherlda"> </button>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda)](https://github.com/Scherlda)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda)](https://github.com/Scherlda)-->
 
