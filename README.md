@@ -1,4 +1,4 @@
-<center> ### Hi 👋 </center>
+<p style="text-align:center"> ### Hi 👋
 #### My Name is Damian.
 Yes I am still learning but I am very motivated.
 
