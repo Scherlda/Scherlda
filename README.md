@@ -1,6 +1,6 @@
-<p style="text-align:center"> ### Hi 👋
-#### My Name is Damian.
-Yes I am still learning but I am very motivated.
+<p style="text-align:center"> ### Hi 👋 </br>
+#### My Name is Damian. </br>
+Yes I am still learning but I am very motivated. </br>
 
 
 🖥️ I'm a network engineer</br>
