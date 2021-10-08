@@ -8,7 +8,7 @@
 	  <img alt="Instagram" width="30px" src="https://github.com/Scherlda/Scherlda/blob/main/src/picture/instagram.png" />
 	</a>
 	<a href="https://github.com/scherlda">
-		<img alt="Gibthub_Follow" height="30px" src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
+		<img alt="Gibthub_Follow" height="20px" src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
 	</a>
 </div>
 
