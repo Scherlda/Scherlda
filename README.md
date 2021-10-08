@@ -4,7 +4,10 @@
 
 <!--Social Media Buttons-->
 <div>
-[![Github](https://img.shields.io/github/followers/Scherlda?label=Follow&style=social)](https://github.com/scherlda)
+<a hraf="https://github.com/scherlda">
+<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
+</a>
+
 <a target="_blank" href="https://www.instagram.com/ary.clenio/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
