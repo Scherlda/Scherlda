@@ -1,4 +1,4 @@
-<p style="text-align:center"> ### Hi 👋 </br>
+<p style="text-align:center"> ### Hi 👋 </p> </br>
 #### My Name is Damian. </br>
 Yes I am still learning but I am very motivated. </br>
 
