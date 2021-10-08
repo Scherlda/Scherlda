@@ -3,13 +3,14 @@
 <p align="center"> Yes I am still learning but I am very motivated.</p>
 
 <!--Social Media Buttons-->
-<div>
-	<a href="https://github.com/scherlda">
-		<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
-	</a>
+<div align="center">
 	<a href="https://www.instagram.com/damian2_5/">
 	  <img alt="Instagram" width="22px" src="https://github.com/Scherlda/Scherlda/blob/main/src/picture/instagram.png" />
 	</a>
+	<a href="https://github.com/scherlda">
+		<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
+	</a>
+	
 </div>
 
 <!--About me-->
@@ -24,8 +25,8 @@
 
 <div align="center">
 	<a href="https://github.com/Scherlda/sw_developer_2021_damian">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=scherlda&repo=sw_developer_2021_damian" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=scherlda&repo=sw_developer_2021_damian&theme=tokyonight" />
 	</a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda&theme=tokyonight" />
 </div>
 
