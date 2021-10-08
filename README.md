@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 </h1>
-<h2 align="center"> My Name is Damian. </h2>
+<h3 align="center"> My Name is Damian. </h3>
 <p align="center">
-Yes I am still learning but I am very motivated. </br>
+Yes I am still learning but I am very motivated.
 
 🖥️ I'm a network engineer</br>
 🧑‍💻 I am currently learning C#</br>
