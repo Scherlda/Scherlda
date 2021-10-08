@@ -4,13 +4,13 @@
 
 <!--Social Media Buttons-->
 <div>
-<a hraf="https://github.com/scherlda">
-<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
-</a>
+	<a href="https://github.com/scherlda">
+		<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
+	</a>
 
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+	<a href="https://www.instagram.com/damian2_5/">
+	  <img alt="Instagram" width="22px" src="https://github.com/Scherlda/Scherlda/src/picture/instagram.jpg" />
+	</a>
 </div>
 
 <!--About me-->
