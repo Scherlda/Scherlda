@@ -3,7 +3,12 @@
 <p align="center"> Yes I am still learning but I am very motivated.</p>
 
 <!--Social Media Buttons-->
+<div>
 [![Github](https://img.shields.io/github/followers/Scherlda?label=Follow&style=social)](https://github.com/scherlda)
+<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</div>
 
 <!--About me-->
 <p align="center"> 🖥️ I'm a network engineer</p>
@@ -15,7 +20,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Scherlda&show_icons=true&theme=radical" />
 </p>
 
-<div align="center" style="max-height:50px;">
+<div align="center">
 	<a href="https://github.com/Scherlda/sw_developer_2021_damian">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=scherlda&repo=sw_developer_2021_damian" />
 	</a>
