@@ -10,13 +10,12 @@
 	<a href="https://github.com/scherlda">
 		<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
 	</a>
-	
 </div>
 
 <!--About me-->
-<p align="center"> 🖥️ I'm a network engineer</p>
-<p align="center"> 🧑‍💻 I'm currently learning C#</p>
-<p align="center"> 🐱 And i love cat's </p>
+<a align="center"> 🖥️ I'm a network engineer</a>
+<a align="center"> 🧑‍💻 I'm currently learning C#</a>
+<a align="center"> 🐱 And i love cat's </a>
 
 <!--statistics-->
 <p align="center">
@@ -29,4 +28,4 @@
 	</a>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda&theme=tokyonight" />
 </div>
-
+<p>Stats Cards from: https://github.com/anuraghazra/github-readme-stats</p>
