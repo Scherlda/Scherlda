@@ -1,5 +1,5 @@
 <p align="center">
-###  <p style="text-align:center"> Hi 👋 </p> </br>
+### Hi 👋 </br>
 #### My Name is Damian. </br>
 Yes I am still learning but I am very motivated. </br>
 
