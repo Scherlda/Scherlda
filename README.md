@@ -13,10 +13,10 @@
 </div>
 
 <!--About me-->
-<div>
-<a align="center"> 🖥️ I'm a network engineer</a></br>
-<a align="center"> 🧑‍💻 I'm currently learning C#</a></br>
-<a align="center"> 🐱 And i love cat's </a>
+<div align="center">
+<a> 🖥️ I'm a network engineer</a></br>
+<a> 🧑‍💻 I'm currently learning C#</a></br>
+<a> 🐱 And i love cat's </a>
 </div>
 
 <!--statistics-->
@@ -30,4 +30,4 @@
 	</a>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda&theme=tokyonight" />
 </div>
-<p>Stats Cards from: https://github.com/anuraghazra/github-readme-stats</p>
+<a align="center">Stats Cards from: https://github.com/anuraghazra/github-readme-stats</p></a>
