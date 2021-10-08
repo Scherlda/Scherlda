@@ -13,7 +13,7 @@
 </div>
 
 <!--About me-->
-<a align="center"> 🖥️ I'm a network engineer</a>
+<a align="center"> 🖥️ I'm a network engineer</br></a>
 <a align="center"> 🧑‍💻 I'm currently learning C#</a>
 <a align="center"> 🐱 And i love cat's </a>
 
