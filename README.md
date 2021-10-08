@@ -7,7 +7,6 @@
 	<a href="https://github.com/scherlda">
 		<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
 	</a>
-
 	<a href="https://www.instagram.com/damian2_5/">
 	  <img alt="Instagram" width="22px" src="https://github.com/Scherlda/Scherlda/src/picture/instagram.jpg" />
 	</a>
