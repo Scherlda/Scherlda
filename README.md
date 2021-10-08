@@ -15,7 +15,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Scherlda&show_icons=true&theme=radical" />
 </p>
 
-<div align="center">
+<div align="center" height=200>
 	<a href="https://github.com/Scherlda/sw_developer_2021_damian">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=scherlda&repo=sw_developer_2021_damian" />
 	</a>
