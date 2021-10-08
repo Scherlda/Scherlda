@@ -10,11 +10,13 @@
 <p align="center"> 🧑‍💻 I''m currently learning C#</p></br>
 <p ali
 
-
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=Scherlda&show_icons=true&theme=radical" />
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=scherlda&repo=sw_developer_2021_damian" />
 </a>
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda" />
-
+</p>
 
