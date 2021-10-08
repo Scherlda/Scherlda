@@ -13,9 +13,11 @@
 </div>
 
 <!--About me-->
-<a align="center"> 🖥️ I'm a network engineer</br></a>
-<a align="center"> 🧑‍💻 I'm currently learning C#</a>
+<div>
+<a align="center"> 🖥️ I'm a network engineer</a></br>
+<a align="center"> 🧑‍💻 I'm currently learning C#</a></br>
 <a align="center"> 🐱 And i love cat's </a>
+</div>
 
 <!--statistics-->
 <p align="center">
