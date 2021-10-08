@@ -5,10 +5,10 @@
 <!--Social Media Buttons-->
 <div align="center">
 	<a href="https://www.instagram.com/damian2_5/">
-	  <img alt="Instagram" width="22px" src="https://github.com/Scherlda/Scherlda/blob/main/src/picture/instagram.png" />
+	  <img alt="Instagram" width="30px" src="https://github.com/Scherlda/Scherlda/blob/main/src/picture/instagram.png" />
 	</a>
 	<a href="https://github.com/scherlda">
-		<img src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
+		<img alt="Gibthub_Follow" width="30px" src="https://img.shields.io/github/followers/Scherlda?label=Follow&style=social" />
 	</a>
 </div>
 
@@ -17,6 +17,7 @@
 <a> 🖥️ I'm a network engineer</a></br>
 <a> 🧑‍💻 I'm currently learning C#</a></br>
 <a> 🐱 And i love cat's </a>
+</br>
 </div>
 
 <!--statistics-->
