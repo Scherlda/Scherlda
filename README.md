@@ -2,9 +2,9 @@
 <h3 align="center"> My Name is Damian. </h3>
 <p align="center"> Yes I am still learning but I am very motivated.</p>
 
-<p align="center">
+
 [![Github](https://img.shields.io/github/followers/Scherlda?label=Follow&style=social)](https://github.com/scherlda)
-</p>
+
 
 <p align="center"> 🖥️ I'm a network engineer</p>
 <p align="center"> 🧑‍💻 I am currently learning C#</p></br>
