@@ -5,7 +5,8 @@
 <p align="center"> 🖥️ I'm a network engineer</p></br>
 <p align="center"> 🧑‍💻 I am currently learning C#</p></br>
 
-
+<p align="center">
 ![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scherlda&show_icons=true&theme=radical)
+</p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scherlda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
