@@ -9,6 +9,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scherlda&repo=sw_developer_2021_damian)](https://github.com/Scherlda/sw_developer_2021_damian)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda)](https://github.com/Scherlda/sw_developer_2021_damian.git)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda)](https://github.com/Scherlda)
 
