@@ -31,4 +31,4 @@
 	</a>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherlda&theme=tokyonight" />
 </div>
-<a align="center">Stats Cards from: https://github.com/anuraghazra/github-readme-stats </a>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats" >Stats Cards from anuraghazra </a>
