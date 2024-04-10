@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 </h1>
 <h3 align="center"> My Name is Damian. </h3>
-<p align="center"> Yes I am still learning but I am very motivated.</p>
+<p align="center"> It's nice that you've found my Github Profile, here you will find some helpfull scripts </p>
 
 <!--Social Media Buttons-->
 <div align="center">
