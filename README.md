@@ -15,7 +15,7 @@
 <!--About me-->
 <div align="center">
 <a> 🖥️ I'm a network engineer</a></br>
-<a> 🧑‍💻 I'm currently learning C#</a></br>
+<a> 🧑‍💻 I'm offering differnt kind of usefull powershell scripts</a></br>
 <a> 🐱 And i love cat's </a>
 </p>
 </div>
